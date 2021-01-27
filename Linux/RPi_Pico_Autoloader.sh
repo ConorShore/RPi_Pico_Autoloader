@@ -11,8 +11,8 @@ UF2_FILE="/home/ubuntu/pico/pico-examples/build/blink/blink.uf2"
 #How long between checks
 SLEEP_TIME=5
 
-echo "Raspberry Pi Pico Autoloader By Conor Shore 2020"
-echo "Minimise this window, it will run in the background"
+echo "Raspberry Pi Pico Autoloader By Conor Shore 2021"
+echo "Minimise this window, it will sit and wait for a Pico to be plugged in"
 
 while true
 do
